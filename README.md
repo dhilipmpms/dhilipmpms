@@ -28,13 +28,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhilipmpms&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipmpms&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dhilipmpms/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
 
 ## 🏆 Achievements
 
