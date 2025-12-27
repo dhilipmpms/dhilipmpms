@@ -19,16 +19,18 @@
   <img src="https://skillicons.dev/icons?i=linux,python,django,git,docker,postgres,bash,html,css,js&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhilipmpms&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=dhilipmpms&theme=tokyonight&hide_border=true" />
-</p>
+## Skills & Technologies
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipmpms&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=bash,html,css,react,flask,django,git,docker,mysql,postgres,nodejs,fastapi,graphql,linux,aws,githubactions,heroku,redis,vue,svelte,flutter&perline=8)](https://skillicons.dev)
+
+## GitHub Stats
+🌟 Public Repositories: 37
+👥 Followers: 14
+🔗 Following: 11
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhilipmpms&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipmpms&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievements
 
