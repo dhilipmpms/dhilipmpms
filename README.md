@@ -47,6 +47,11 @@
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
 
 </div>
+
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhilipmpms&theme=dark" alt="GitHub Streak" />
+
  
 ## 🛠️ What I'm Working On
  
@@ -56,15 +61,14 @@
 - 🐳 Self-hosted services (Docker, Immich, Jellyfin)
 - 🐧 Promoting GNU/Linux & Open Source
  
-## 🐍 Contribution Graph
- 
-![snake](https://raw.githubusercontent.com/dhilipmpms/dhilipmpms/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhilipmpms&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
- 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhilipmpms&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+
 ## 🌍 Connect
  
 - 🐙 GitHub: https://github.com/dhilipmpms
