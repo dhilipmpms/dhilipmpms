@@ -20,10 +20,6 @@
 </p>
 
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,react,flask,django,git,docker,mysql,postgres,nodejs,fastapi,graphql,linux,aws,githubactions,heroku,redis,vue,svelte,flutter&perline=8)](https://skillicons.dev)
-
 ## GitHub Stats
 🌟 Public Repositories: 37
 👥 Followers: 14
