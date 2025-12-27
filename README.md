@@ -23,9 +23,7 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhilipmpms&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipmpms&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhilipmpms&theme=default" alt="GitHub Streak" />
  
