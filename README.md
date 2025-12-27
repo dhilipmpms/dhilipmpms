@@ -59,6 +59,11 @@
 ## 🐍 Contribution Graph
  
 ![snake](https://raw.githubusercontent.com/dhilipmpms/dhilipmpms/output/github-contribution-grid-snake-dark.svg)
+
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhilipmpms&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
  
 ## 🌍 Connect
  
