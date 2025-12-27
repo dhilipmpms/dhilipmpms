@@ -20,16 +20,14 @@
 </p>
  
  
+
 ## GitHub Stats
-🌟 Public Repositories: 37
-👥 Followers: 14
-🔗 Following: 11
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhilipmpms&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipmpms&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhilipmpms&theme=radical)
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhilipmpms&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipmpms&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhilipmpms&theme=default" alt="GitHub Streak" />
  
 ## 🏆 Achievements
  
