@@ -46,7 +46,7 @@
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/dhilipmpms/dhilipmpms/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/dhilipmpms/dhilipmpms/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌍 Connect
 
