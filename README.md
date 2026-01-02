@@ -48,9 +48,6 @@
 
 </div>
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhilipmpms&theme=dark" alt="GitHub Streak" />
 
  
 ## 🛠️ What I'm Working On
