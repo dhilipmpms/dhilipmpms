@@ -76,6 +76,13 @@
 </a>
 
 ### ✉️ Letterpress
+## 🧾 Upstream Project
+
+This project is originally developed and maintained by the GNOME community.
+This repository is a GitHub mirror for learning, experimentation, or redistribution
+under the original license.
+
+### 👥 Upstream Contributors (GNOME)
 <a href="https://github.com/dhilipmpms/Letterpress/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dhilipmpms/Letterpress" />
 </a>
