@@ -52,7 +52,6 @@
  
 ## 🛠️ What I'm Working On
  
-- 🔐 Face Authentication GUI for Linux (Howdy)
 - 🌐 Django-based Web Applications
 - 🧑‍🦯 Accessibility tools for visually impaired users
 - 🐳 Self-hosted services (Docker, Immich, Jellyfin)
