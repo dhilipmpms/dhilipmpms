@@ -62,16 +62,16 @@
 
 ## GitHub Activity Graph
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhilipmpms&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=dhilipmpms&theme=tokyonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5"
-    height="160"
-  />
-  
+    height="160"/>
+  </p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhilipmpms&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 </p>
+
+
 
 
 ## 🥰 Contributors
