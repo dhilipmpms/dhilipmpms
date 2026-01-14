@@ -81,10 +81,19 @@ This project is originally developed and maintained by the GNOME community.
 This repository is a GitHub mirror for learning, experimentation, or redistribution
 under the original license.
 
-### 👥 Upstream Contributors (GNOME)
-<a href="https://github.com/dhilipmpms/Letterpress/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dhilipmpms/Letterpress" />
-</a>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</p>
+
 
 ## 🌍 Connect
  
