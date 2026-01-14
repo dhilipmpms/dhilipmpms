@@ -74,25 +74,14 @@
   <img src="https://contrib.rocks/image?repo=dhilipmpms/Library_management_system" />
 </a>
 
-### ✉️ Letterpress
-## 🧾 Upstream Project
+## Contrubutions   
 
-This project is originally developed and maintained by the GNOME community.
-This repository is a GitHub mirror for learning, experimentation, or redistribution
-under the original license.
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://github.com/dhilipmpms/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/dhilipmpms/dhilipmpms/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" 
+       src="https://raw.githubusercontent.com/dhilipmpms/dhilipmpms/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## 🌍 Connect
