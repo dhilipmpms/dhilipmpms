@@ -83,7 +83,6 @@
   <img src="https://contrib.rocks/image?repo=dhilipmpms/Library_management_system" />
 </a>
 
-### ❄️
 
 
 <picture>
@@ -93,7 +92,14 @@
     src="https://raw.githubusercontent.com/dhilipmpms/dhilipmpms/output/github-contribution-grid-snake.svg" />
 </picture>
 
+## ☕ Support My Open Source Work
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dhilipmpms">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png"
+         alt="Buy Me a Coffee">
+  </a>
+</p>
 
 
 ## 🌍 Connect
